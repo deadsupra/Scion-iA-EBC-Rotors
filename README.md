@@ -20,8 +20,6 @@ The only thing I would suggest in advance of doing this job yourself is to remem
 Make sure to place the brake caliper safely without putting tension in the brake line. Some people use a bucket or tie some rope to let it hang. I, conveniently, let it rest behind the coilover.
 
 # Images
-![New](new.jpg =400)
-
-<img src="cleaned.jpg" width="360" height="400"></img>
-
-![Lubbed](lubbed.jpg =400)
+<img src="new.jpg" width="360" height="480"></img>
+<img src="cleaned.jpg" width="360" height="478"></img>
+<img src="lubbed.jpg" width="360" height="514"></img>
