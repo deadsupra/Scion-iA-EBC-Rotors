@@ -20,4 +20,4 @@ The only thing I would suggest in advance of doing this job yourself is to remem
 Make sure to place the brake caliper safely without putting tension in the brake line. Some people use a bucket or tie some rope to let it hang. I, conveniently, let it rest behind the coilover.
 
 # Images
-[](Scion-iA-EBC-Rotors/lubbed.jpg)
+![Lubbed](Scion-iA-EBC-Rotors/lubbed.jpg)
