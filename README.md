@@ -1,6 +1,16 @@
 # Scion-iA-EBC-Rotors
 Discussion on Scion iA brake rotor replacement.
 
+# Reason for replacement
+The reason why I replaced them is due to constant squeak and squealing noise.
+
+Previously, I had my pads replaced with OE from the Toyota dealership (Mazda pads). I had my rotors resurfaced. But the rust came back.
+
+The issue was in cold starts, cold weather, mornings/nights, winter time especially. I suspect it was the pads were scratching on the rusted surface but with heat after usage, the pads would stop scratching the rusted area.
+
+These new rotors don't seem special, so the rust may come back, but I wanted to learn/experience how to replace the rotors myself.
+
+
 # ChrisFix Youtube
 I pretty much followed [ChrisFix's guide](https://youtu.be/lU6OKQxSg8U) on changing the brake rotors. I used brake lubricant instead of anti-seize. It seemed hard to find in stores in-person.
 
