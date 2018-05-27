@@ -21,5 +21,5 @@ Make sure to place the brake caliper safely without putting tension in the brake
 
 # Images
 ![New](new.jpg =400)
-![Cleaned](cleaned.jpg =400)
+![Cleaned](cleaned.jpg =400x400)
 ![Lubbed](lubbed.jpg =400)
