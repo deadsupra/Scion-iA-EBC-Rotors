@@ -23,5 +23,3 @@ Make sure to place the brake caliper safely without putting tension in the brake
 ![New](new.jpg)
 ![Cleaned](cleaned.jpg)
 ![Lubbed](lubbed.jpg)
-![brushing](brushing.mp4)
-![sprayed](sprayed.mp4)
